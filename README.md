@@ -1,13 +1,17 @@
 # Sentimntal-Analysis
 
 <p align="justify"> 
-Developed a sentiment analysis model on the IMDB movie review dataset using deep learning techniques. 
-Implemented a hybrid architecture combining Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM)
-networks to classify reviews as positive or negative. Preprocessed the dataset by tokenizing and padding sequences,
-and used word embeddings for feature representation. Trained the model on TPUs in a Kaggle notebook for efficient computation.
-Achieved [mention accuracy or other metrics] on the test data, demonstrating the model’s ability to effectively capture both local
-and long-term dependencies in text data.
+Developed a sentiment analysis model on the IMDB movie review dataset using deep learning techniques. Implemented a hybrid architecture 
+that combines Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks to classify reviews as positive or negative.
 </p>
+
+### Key steps include:
+
+- Preprocessing the dataset by tokenizing and padding sequences.
+- Utilizing word embeddings for effective feature representation.
+- Training the model on TPUs within a Kaggle notebook for enhanced computational efficiency.<br>
+<br>
+Achieved 89% on the test data, demonstrating the model’s ability to effectively capture both local and long-term dependencies in text data.
 
 ## Table of Contents
 
