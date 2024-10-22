@@ -12,6 +12,7 @@ and long-term dependencies in text data.
 ## Table of Contents
 
 - **Overview**
+- **Dataset used**
 - **Technologies**
 - **Code Explaination**
 
@@ -27,7 +28,10 @@ To achieve this, we implemented a hybrid deep learning architecture combining Co
 The model was trained using TPUs in a Kaggle notebook for faster computation, and it achieved [mention your accuracy or other metrics here]. This project demonstrates the effectiveness of deep learning in sentiment analysis tasks and showcases efficient model training and deployment.
 </p>
 
-## B:  Technologies
+## B: Dataset Used
+Kaggel link - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+## C:  Technologies
 
 <p align="justify">
 This project leverages a variety of technologies and libraries to implement sentiment analysis effectively. The key technologies used include:
@@ -45,7 +49,7 @@ This project leverages a variety of technologies and libraries to implement sent
 These technologies work together to facilitate data preprocessing, model training, and evaluation, enabling the successful implementation of the sentiment analysis project.
 </p>
 
-## C: Code Explaination
+## D: Code Explaination
 
 Here’s a breakdown of the code used in this project:
 
